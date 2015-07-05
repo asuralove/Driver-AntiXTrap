@@ -1,0 +1,5 @@
+TARGETNAME=MyDriver
+TARGETPATH=obj
+TARGETTYPE=DRIVER
+
+SOURCES=main.c memscan.c InitIOPL.c

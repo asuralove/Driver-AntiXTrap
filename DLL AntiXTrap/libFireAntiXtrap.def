@@ -1,0 +1,2 @@
+; dlltool --base-file C:\Users\Lucas\AppData\Local\Temp/cca04420.base --output-exp FireAntiXtrap.exp --dllname FireAntiXtrap.dll --output-def libFireAntiXtrap.def --no-export-all-symbols --add-stdcall-alias --exclude-symbol=DllMainCRTStartup@12 --def C:\Users\Lucas\AppData\Local\Temp/cca04420.def --output-lib libFireAntiXtrap.a
+EXPORTS
